@@ -11,12 +11,12 @@ redirect_from:
   .bio-text {
     font-family: "Calibri", serif;
     font-size: 20px;
-    color: black; /* 设置字体颜色为黑色 */
+    color: black;
   }
 </style>
 
 <p class="bio-text">
-  I am a PhD Candidate in Demography at the School of Population and Health, Renmin University of China. My research focuses on marriage and family, and I am committed to extending computational methods to classic demographic topics, particularly integrating multi-source data. I am also interested in public health, including simulating population health and exploring social stratification in health communication.
+ I am a Ph.D. Candidate in Demography at the School of Population and Health, Renmin University of China, under the supervision of Professor Ting Li(https://litingkitty.cn/). My research focuses on marriage and family, and I am committed to extending computational methods to classic demographic topics, particularly integrating multi-source data. I am also interested in public health, including simulating population health and exploring social stratification in health communication.
 </p>
 
 <style>
