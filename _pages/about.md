@@ -32,21 +32,22 @@ I am a PhD Candidate in Demography at the School of Population and Health, Renmi
   }
   .education-title {
     color: #006400; /* 设置墨绿色 */
+    font-size: 24px; /* 增大标题字号 */
   }
 </style>
 
 <h2 class="education-title">Education</h2>
 <table class="education-table">
   <tr>
-    <td><span class="degree">Ph.D. Student, Demography, Renmin University of China</span></td>
+    <td><span class="degree">Ph.D. Student, Demography</span>, Renmin University of China</td>
     <td>2026 (Expected)</td>
   </tr>
   <tr>
-    <td><span class="degree">M.S. Social Data Science, University of Oxford</span></td>
+    <td><span class="degree">M.S. Social Data Science</span>, University of Oxford</td>
     <td>2021</td>
   </tr>
   <tr>
-    <td><span class="degree">B.A. Sociology, Southeast University (Outstanding Graduate)</span></td>
+    <td><span class="degree">B.A. Sociology</span>, Southeast University (Outstanding Graduate)</td>
     <td>2020</td>
   </tr>
 </table>
