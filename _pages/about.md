@@ -11,6 +11,7 @@ redirect_from:
   .bio-text {
     font-family: "Calibri", serif;
     font-size: 20px;
+    color: black; /* 设置字体颜色为黑色 */
   }
 </style>
 
@@ -64,8 +65,3 @@ redirect_from:
     <td>2016-2020</td>
   </tr>
 </table>
-
-
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
