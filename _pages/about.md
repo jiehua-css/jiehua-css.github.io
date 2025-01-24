@@ -7,7 +7,16 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD Candidate in Demography at the School of Population and Health, Renmin University of China. My research focuses on marriage and family, and I am committed to extending computational methods to classic demographic topics, particularly integrating multi-source data. I am also interested in public health, including simulating population health and exploring social stratification in health communication.
+<style>
+  .bio-text {
+    font-family: "Futura", serif; /* 设置为 Times New Roman 字体 */
+    font-size: 18px; /* 设置字号为 18px */
+  }
+</style>
+
+<p class="bio-text">
+  I am a PhD Candidate in Demography at the School of Population and Health, Renmin University of China. My research focuses on marriage and family, and I am committed to extending computational methods to classic demographic topics, particularly integrating multi-source data. I am also interested in public health, including simulating population health and exploring social stratification in health communication.
+</p>
 
 <style>
   .education-table {
