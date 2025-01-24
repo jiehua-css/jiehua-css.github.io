@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Jie Hua"
+title: "Jie Hua (华 杰)"
 author_profile: true
 redirect_from: 
   - /about/
