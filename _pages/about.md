@@ -18,10 +18,13 @@ I am a PhD Candidate in Demography at the School of Population and Health, Renmi
   .education-table td {
     padding: 8px;
     text-align: left;
-    border: none; /* 去掉边框 */
+    border: none; /* 去掉单元格边框 */
   }
   .education-table td:nth-child(2) {
     text-align: right;
+  }
+  .education-table, .education-table td {
+    border: none; /* 去掉表格和单元格的外边框 */
   }
 </style>
 
