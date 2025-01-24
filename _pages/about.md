@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Jie Hua (华 杰)"
+title: ""Jie Hua <span style='font-family:仿宋, FangSong;'>（华 杰）</span>""
 author_profile: true
 redirect_from: 
   - /about/
