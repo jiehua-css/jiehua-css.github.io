@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Jie Hua <span style='font-family:仿宋, FangSong;'>（华 杰）</span>"
+title: "<span style='font-family:Aptos, sans-serif;'>Jie Hua</span> <span style='font-family:仿宋, FangSong;'>（华 杰）</span>"
 author_profile: true
 redirect_from: 
   - /about/
@@ -10,7 +10,7 @@ redirect_from:
 <style>
   .bio-text {
     font-family: "Calibri", serif;
-    font-size: 18px;
+    font-size: 20px;
   }
 </style>
 
