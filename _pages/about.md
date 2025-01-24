@@ -30,10 +30,12 @@ I am a PhD Candidate in Demography at the School of Population and Health, Renmi
   .education-table, .education-table td {
     border: none; /* 去掉表格和单元格的外边框 */
   }
+  .education-title {
+    color: #006400; /* 设置墨绿色 */
+  }
 </style>
 
-Education
-======
+<h2 class="education-title">Education</h2>
 <table class="education-table">
   <tr>
     <td><span class="degree">Ph.D. Student, Demography, Renmin University of China</span></td>
