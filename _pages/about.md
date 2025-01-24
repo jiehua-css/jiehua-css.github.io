@@ -13,7 +13,8 @@ I am a PhD Candidate in Demography at the School of Population and Health, Renmi
   .education-table {
     width: 100%;
     border-collapse: collapse;
-    font-family: inherit; /* 确保字体与其他部分一致 */
+    font-family: "Times New Roman", serif; /* 设置为 Times New Roman 字体 */
+    font-size: 18px; /* 设置字号为 18px */
   }
   .education-table td {
     padding: 8px;
@@ -22,6 +23,9 @@ I am a PhD Candidate in Demography at the School of Population and Health, Renmi
   }
   .education-table td:nth-child(2) {
     text-align: right;
+  }
+  .education-table .degree {
+    font-weight: bold; /* 加粗学位部分 */
   }
   .education-table, .education-table td {
     border: none; /* 去掉表格和单元格的外边框 */
@@ -32,15 +36,15 @@ Education
 ======
 <table class="education-table">
   <tr>
-    <td>Ph.D. Student, Demography, Renmin University of China</td>
+    <td><span class="degree">Ph.D. Student, Demography, Renmin University of China</span></td>
     <td>2026 (Expected)</td>
   </tr>
   <tr>
-    <td>M.S. Social Data Science, University of Oxford</td>
+    <td><span class="degree">M.S. Social Data Science, University of Oxford</span></td>
     <td>2021</td>
   </tr>
   <tr>
-    <td>B.A. Sociology, Southeast University (Outstanding Graduate)</td>
+    <td><span class="degree">B.A. Sociology, Southeast University (Outstanding Graduate)</span></td>
     <td>2020</td>
   </tr>
 </table>
