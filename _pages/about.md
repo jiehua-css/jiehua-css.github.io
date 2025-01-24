@@ -39,20 +39,20 @@ I am a PhD Candidate in Demography at the School of Population and Health, Renmi
 <h2 class="education-title">Education</h2>
 <table class="education-table">
   <tr>
-    <td><span class="degree">Ph.D. Student, Demography</span>, Renmin University of China</td>
-    <td>2026 (Expected)</td>
+    <td><span class="degree">Ph.D. Candidate, Demography</span>, Renmin University of China</td>
+    <td>2022-2026(Expected)</td>
   </tr>
   <tr>
     <td><span class="degree">Visiting Student, Sociology</span>, University of Chicago</td>
-    <td>2026 (Expected)</td>
+    <td>2024-2025</td>
   </tr>
   <tr>
     <td><span class="degree">M.S. Social Data Science</span>, University of Oxford</td>
-    <td>2021</td>
+    <td>2010-2021</td>
   </tr>
   <tr>
     <td><span class="degree">B.A. Sociology</span>, Southeast University (Outstanding Graduate)</td>
-    <td>2020</td>
+    <td>2016-2020</td>
   </tr>
 </table>
 
