@@ -32,7 +32,7 @@ I am a PhD Candidate in Demography at the School of Population and Health, Renmi
   }
   .education-title {
     color: #006400; /* 设置墨绿色 */
-    font-size: 24px; /* 增大标题字号 */
+    font-size: 28px; /* 增大标题字号 */
   }
 </style>
 
