@@ -21,11 +21,11 @@ repository               : "jiehua-css/jiehua-css.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Profile Photo.png"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  avatar           : "Profile.png"
+  location         : "China"
+  employer         : "RUC"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "patrickhua97@gmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
