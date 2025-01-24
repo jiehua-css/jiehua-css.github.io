@@ -9,8 +9,8 @@ redirect_from:
 
 <style>
   .bio-text {
-    font-family: "Futura", serif; /* 设置为 Times New Roman 字体 */
-    font-size: 18px; /* 设置字号为 18px */
+    font-family: "Calibri", serif;
+    font-size: 18px;
   }
 </style>
 
@@ -22,26 +22,26 @@ redirect_from:
   .education-table {
     width: 100%;
     border-collapse: collapse;
-    font-family: "Times New Roman", serif; /* 设置为 Times New Roman 字体 */
-    font-size: 18px; /* 设置字号为 18px */
+    font-family: "Times New Roman", serif;
+    font-size: 18px;
   }
   .education-table td {
     padding: 8px;
     text-align: left;
-    border: none; /* 去掉单元格边框 */
+    border: none;
   }
   .education-table td:nth-child(2) {
     text-align: right;
   }
   .education-table .degree {
-    font-weight: bold; /* 加粗学位部分 */
+    font-weight: bold;
   }
   .education-table, .education-table td {
-    border: none; /* 去掉表格和单元格的外边框 */
+    border: none;
   }
   .education-title {
-    color: #006400; /* 设置墨绿色 */
-    font-size: 28px; /* 增大标题字号 */
+    color: #006400;
+    font-size: 28px;
   }
 </style>
 
