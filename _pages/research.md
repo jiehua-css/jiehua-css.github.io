@@ -53,7 +53,17 @@ author_profile: true
 — <b style="font-family: Calibri; font-size: 20px;">Annual Meeting of CSA (Chinese Sociological Association), Section on Computational Sociology</b>, Tianjin, China.
 
 - Ke Li, <b style="color: #C70039; font-family: Calibri; font-size: 20px;">Jie Hua</b>, and Pu Yan. 2023. “‘The Algorithm Knows Too much about Me!’ Public Understanding of Content Recommendation Algorithms on Chinese Social Media Platforms”  
-— <b style="font-family: Calibri; font-size: 20px;">International Conference on Computational Social Science (Poster)</b>, Copenhagen, Denmark.
+— <b style="font-family: Calibri; font-size: 20px;">IC2S2 International Conference on Computational Social Science (Poster)</b>, Copenhagen, Denmark.
 
-- <b style="color: #C70039; font-family: Calibri; font-size: 20px;">Jie Hua</b>, and Ting Li. 2024. “Polarization or Diversification? Social Media’s Influence on Attitudes towards Marriage and Fertility”  
+- <b style="color: #C70039; font-family: Calibri; font-size: 20px;">Jie Hua</b>, and Ting Li. 2023. “Polarization or Diversification? Social Media’s Influence on Attitudes towards Marriage and Fertility”  
 — <b style="font-family: Calibri; font-size: 20px;">Annual Meeting of ASA (American Sociological Association), Section on Communication, Information Technologies, and Media Sociology (Roundtable)</b>, Philadelphia, U.S..
+
+- <b style="color: #C70039; font-family: Calibri; font-size: 20px;">Jie Hua</b>. 2022. “Divide between Self-Presentation and Searching Strategy in Chinese Online Dating”  
+— <b style="font-family: Calibri; font-size: 20px;">Annual Meeting of CPA (China Population Association), Section on Marriage and Childbearing Behavior and Attitudes of Youth in the New Era</b>, virtual.
+
+- <b style="color: #C70039; font-family: Calibri; font-size: 20px;">Jie Hua</b>, Ralph Schroeder, and Pu Yan. 2022. “‘Female boxers’ vs ‘Feminists’: Mapping Feminist Controversies across Different Chinese Social Media Platforms”  
+— <b style="font-family: Calibri; font-size: 20px;">Annual ICA (International Communication Association) Conference, Communication and Technology Division</b>, virtual.
+
+- <b style="color: #C70039; font-family: Calibri; font-size: 20px;">Jie Hua</b>, and Yanbi Hong. 2022. “Group Distinction and Mate Selection Criteria between First-time and Remarried People”  
+— <b style="font-family: Calibri; font-size: 20px;"> Annual Meeting of CSA (Chinese Sociological Association), Section on Cutting-edge and Interaction of Quantitative Sociological Research</b>, Yunnan, China.
+
