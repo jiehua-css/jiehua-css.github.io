@@ -7,10 +7,10 @@ author_profile: true
 
 {% include base_path %}
 
-<span style="font-family: Aptos, sans-serif; font-size: 24px; color: #6495ED;">Peer-Reviewed Papers (CN)</span>
+<span style="font-family: Aptos, sans-serif; font-size: 24px; color: #6495ED;">Peer-Reviewed Papers</span>
 
 <ul style="list-style-type: disc; padding-left: 20px;">
-  <li><span style="font-family: Calibri; font-size: 22px; font-weight: bold;">How is the Discourse on Fertility Issues Constructed on the Internet?</span></li>
+  <li><span style="font-family: Calibri; font-size: 22px; font-weight: bold;">How is the Discourse on Fertility Issues Constructed on the Internet? (CN)</span></li>
 </ul>
 <p style="font-family: Calibri; font-size: 20px;">Author: Ting,Li, <b>Jie Hua</b>, Andi Wang</p>
 
@@ -19,7 +19,7 @@ author_profile: true
 </p>
 
 <ul style="list-style-type: disc; padding-left: 20px;">
-  <li><span style="font-family: Calibri; font-size: 22px; font-weight: bold;">Temporal-Spatial Pattern of One-Person Households in China: </span></li>
+  <li><span style="font-family: Calibri; font-size: 22px; font-weight: bold;">Temporal-Spatial Pattern of One-Person Households in China (CN)</span></li>
 </ul>
 <p style="font-family: Calibri; font-size: 20px;">Author: Ting,Li, <b>Jie Hua</b>, Chengrong Duan</p>
 
