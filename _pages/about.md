@@ -145,9 +145,9 @@ I'm visiting the  <a href="https://knowledgelab.org/">Knowledge Lab</a> at UChic
 <h2 class="skills-title">Skills</h2>
 <table class="skills-table">
   <tr>
-    <td><span class="role">Programming</span>: Python, R</td>
+    <td><span class="skill">Programming</span>: Python, R</td>
   </tr>
   <tr>
-    <td><span class="role">Statistical Software</span>: Stata, SAS, SPSS, ArcGIS, Gephi, NetLogo</td>
+    <td><span class="skill">Statistical Software</span>: Stata, SAS, SPSS, ArcGIS, Gephi, NetLogo</td>
   </tr>
 </table>
