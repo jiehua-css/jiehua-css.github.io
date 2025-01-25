@@ -12,7 +12,6 @@ author_profile: true
 <ul style="list-style-type: disc; padding-left: 20px;">
   <li><span style="font-family: Calibri; font-size: 22px; font-weight: bold;">How is the Discourse on Fertility Issues Constructed on the Internet?</span></li>
 </ul>
-<br>
 <span style="font-family: Calibri; font-size: 20px;">Textual Analysis Based on Multiple Social Media Platforms</span>
 
 <p style="font-family: 'Times New Roman'; font-size: 20px;">
