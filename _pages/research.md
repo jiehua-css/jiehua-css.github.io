@@ -34,7 +34,7 @@ author_profile: true
 
 <!--1st -->
 <ul style="list-style-type: disc; padding-left: 20px;">
-  <li><span style="font-family: Calibri; font-size: 22px; font-weight: bold;">SES Differences in Intergenerational Transmission of Health Behaviors (CN, <a href="https://github.com/jiehua-css/jiehua-css.github.io/raw/master/assets/myfile.pdf" target="_blank">pdf</a>)</span></li>
+  <li><span style="font-family: Calibri; font-size: 22px; font-weight: bold;">SES Differences in Intergenerational Transmission of Health Behaviors (CN, <a href="https://github.com/jiehua-css/jiehua-css.github.io/blob/master/assets/%E5%81%A5%E5%BA%B7%E8%A1%8C%E4%B8%BA%E4%BB%A3%E9%99%85%E4%BC%A0%E9%80%92%E6%A8%A1%E5%BC%8F%E7%9A%84%E7%A4%BE%E4%BC%9A...CHNS2015%E7%9A%84%E5%AE%9E%E8%AF%81%E7%A0%94%E7%A9%B6_%E6%B4%AA%E5%B2%A9%E7%92%A7.pdf" target="_blank">pdf</a>)</span></li>
 </ul>
 <p style="font-family: Calibri; font-size: 20px;">Author: Yanbi, Hong, <b style="color: #C70039;">Jie Hua</b></p>
 
