@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-Education
+Peer-Reviewed Papers
 ======
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 * M.S. in Jekyll, GitHub University, 2014
