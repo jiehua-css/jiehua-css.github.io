@@ -71,3 +71,46 @@ I'm visiting the  <a href="https://knowledgelab.org/">Knowledge Lab</a> at UChic
     <td>2016-2020</td>
   </tr>
 </table>
+
+<style>
+  .visit-workshop-table {
+    width: 100%;
+    border-collapse: collapse;
+    font-family: "Times New Roman", serif;
+    font-size: 18px;
+  }
+  .visit-workshop-table td {
+    padding: 8px;
+    text-align: left;
+    border: none;
+  }
+  .visit-workshop-table td:nth-child(2) {
+    text-align: right;
+  }
+  .visit-workshop-table .role {
+    font-weight: bold;
+  }
+  .visit-workshop-table, .visit-workshop-table td {
+    border: none;
+  }
+  .visit-title {
+    color: #006400;
+    font-size: 28px;
+  }
+</style>
+
+<h2 class="visit-title">Visit and Workshop</h2>
+<table class="visit-workshop-table">
+  <tr>
+    <td><span class="role">Visiting Student, Sociology</span>, University of Chicago</td>
+    <td>2024-2025</td>
+  </tr>
+  <tr>
+    <td><span class="role">Workshop Participant, Data Science</span>, University of Oxford</td>
+    <td>2021</td>
+  </tr>
+  <tr>
+    <td><span class="role">Workshop Speaker, Social Research</span>, Southeast University</td>
+    <td>2020</td>
+  </tr>
+</table>
