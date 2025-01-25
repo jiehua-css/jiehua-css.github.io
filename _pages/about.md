@@ -180,8 +180,18 @@ I'm visiting the  <a href="https://knowledgelab.org/">Knowledge Lab</a> at UChic
 <table class="honors-table">
   <tr>
     <td>PhD Second-Class Scholarship (3 times)</td>
+    <td>2022-2024</td>
+  </tr>
+  <tr>
+    <td>Most Influential Graduates (Academic Type) Finalist</td>
+    <td>2020</td>
+  </tr>
+  <tr>
+    <td>‘He Qinfen’ Fund Scholarship</td>
+    <td>2019</td>
   </tr>
   <tr>
     <td>National Scholarship</td>
+    <td>2017</td>
   </tr>
 </table>
