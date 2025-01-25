@@ -7,13 +7,12 @@ author_profile: true
 
 {% include base_path %}
 
-<span style="font-family: Aptos, sans-serif; font-size: 24px; color: #6495ED;">Peer-Reviewed Papers</span>
+<span style="font-family: Aptos, sans-serif; font-size: 24px; color: #6495ED;">Peer-Reviewed Papers (CN)</span>
 
 <ul style="list-style-type: disc; padding-left: 20px;">
   <li><span style="font-family: Calibri; font-size: 22px; font-weight: bold;">How is the Discourse on Fertility Issues Constructed on the Internet?</span></li>
 </ul>
 <p style="font-family: Calibri; font-size: 20px;">- Textual Analysis Based on Multiple Social Media Platforms</p>
-<p style="font-family: Calibri; font-size: 20px;">(in press)</p>
 <p style="font-family: Calibri; font-size: 20px;">Author: Ting,Li, Jie Hua, Andi Wang</p>
 
 <p style="font-family: 'Times New Roman'; font-size: 18px;">
