@@ -50,10 +50,10 @@ author_profile: true
 — <b style="font-family: Calibri; font-size: 20px;">Annual Meeting of PAS (Population Association of Singapore)</b>, Singapore.
 
 - <b style="color: #C70039; font-family: Calibri; font-size: 20px;">Jie Hua</b>, and Pu Yan. 2023. “Shifting Demands and Responses in Reproductive Issues”  
-— <b style="font-family: Calibri; font-size: 20px;">Annual Meeting of Chinese Sociological Association, Section on Computational Sociology</b>, Tianjin, China.
+— <b style="font-family: Calibri; font-size: 20px;">Annual Meeting of CSA (Chinese Sociological Association), Section on Computational Sociology</b>, Tianjin, China.
 
 - Ke Li, <b style="color: #C70039; font-family: Calibri; font-size: 20px;">Jie Hua</b>, and Pu Yan. 2023. “‘The Algorithm Knows Too much about Me!’ Public Understanding of Content Recommendation Algorithms on Chinese Social Media Platforms”  
-— <b style="font-family: Calibri; font-size: 20px;">International Conference on Computational Social Science, Copenhagen, Denmark.
+— <b style="font-family: Calibri; font-size: 20px;">International Conference on Computational Social Science (Poster)</b>, Copenhagen, Denmark.
 
 - <b style="color: #C70039; font-family: Calibri; font-size: 20px;">Jie Hua</b>, and Ting Li. 2024. “Polarization or Diversification? Social Media’s Influence on Attitudes towards Marriage and Fertility”  
 — <b style="font-family: Calibri; font-size: 20px;">Annual Meeting of ASA (American Sociological Association), Section on Communication, Information Technologies, and Media Sociology (Roundtable)</b>, Philadelphia, U.S..
