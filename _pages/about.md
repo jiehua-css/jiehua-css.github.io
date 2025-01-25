@@ -52,7 +52,7 @@ I'm visiting the  <a href="https://knowledgelab.org/">Knowledge Lab</a> at UChic
   }
 </style>
 
-<h2 class="education-title">Education</h2>
+<h2 class="education-title">EDUCATION</h2>
 <table class="education-table">
   <tr>
     <td><span class="degree">Ph.D. Candidate, Demography</span>, Renmin University of China</td>
@@ -99,7 +99,7 @@ I'm visiting the  <a href="https://knowledgelab.org/">Knowledge Lab</a> at UChic
   }
 </style>
 
-<h2 class="visit-title">Visit and Workshop</h2>
+<h2 class="visit-title">VISIT & WORKSHOP</h2>
 <table class="visit-workshop-table">
   <tr>
     <td><span class="role">Quantitative Social Science Workshop</span>, Peking University</td>
@@ -142,12 +142,46 @@ I'm visiting the  <a href="https://knowledgelab.org/">Knowledge Lab</a> at UChic
   }
 </style>
 
-<h2 class="skills-title">Skills</h2>
+<h2 class="skills-title">SKILLS</h2>
 <table class="skills-table">
   <tr>
     <td><span class="skill">Programming</span>: Python, R</td>
   </tr>
   <tr>
     <td><span class="skill">Statistical Software</span>: Stata, SAS, SPSS, ArcGIS, Gephi, NetLogo</td>
+  </tr>
+</table>
+
+<style>
+  .honors-table {
+    width: 100%;
+    border-collapse: collapse;
+    font-family: "Times New Roman", serif;
+    font-size: 18px;
+  }
+  .honors-table td {
+    padding: 8px;
+    text-align: left;
+    border: none;
+  }
+  .honors-table .award {
+    font-weight: bold;
+  }
+  .honors-table, .honors-table td {
+    border: none;
+  }
+  .honors-title {
+    color: #FF7F50;
+    font-size: 28px;
+  }
+</style>
+
+<h2 class="honors-title">HONORS AND AWARDS</h2>
+<table class="honors-table">
+  <tr>
+    <td><span class="award">PhD Second-Class Scholarship (3 times)</span></td>
+  </tr>
+  <tr>
+    <td><span class="award">National Scholarship</span></td>
   </tr>
 </table>
