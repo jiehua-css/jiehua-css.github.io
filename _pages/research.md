@@ -36,7 +36,7 @@ author_profile: true
 <ul style="list-style-type: disc; padding-left: 20px;">
   <li><span style="font-family: Calibri; font-size: 22px; font-weight: bold;">SES Differences in Intergenerational Transmission of Health Behaviors (CN, pdf)</span></li>
 </ul>
-<p style="font-family: Calibri; font-size: 20px;">Author: Yanbi,Hong, <b>Jie Hua</b></p>
+<p style="font-family: Calibri; font-size: 20px;">Author: Yanbi, Hong, <b style="color: #C70039;">Jie Hua</b></p>
 
 <p style="font-family: 'Times New Roman'; font-size: 18px;">
 【Abstract】Based on Cockerham’s Health Lifestyle Theory, this paper discusses whether there are Social Economic Status (SES) differences in intergenerational inheritance of health behaviors. Using Bayesian Structural Equation Model, drawing upon the dataset of “China Health and Nutrition Survey 2015” (CHNS2015), this study reveals that the adolescents with high family socioeconomic status show a pattern of inclining towards positive health behaviors and avoiding inheriting risky behaviors. Although there is no direct correlation between parental positive health behaviors and children’s positive health behaviors, parents’ strong health beliefs encourage their children to develop positive health behaviors. Meanwhile, high family socioeconomic status and strong health belief decreases children’s propensity of inheriting parents’ risky health behaviors. If health behaviors can be intervened in the early stage of individual’s life, it may help to break the class solidification and promote social mobility.
