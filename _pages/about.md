@@ -22,7 +22,7 @@ Welcome to my personal academic homepage!
 I am a Ph.D. Candidate in Demography at the School of Population and Health, Renmin University of China, under the supervision of Professor <a href="https://litingkitty.cn/" target="_blank">Ting Li</a>. My research focuses on marriage and family, and I am committed to extending computational methods to classic demographic topics, particularly integrating multi-source data. I am also interested in public health, including simulating population health and exploring social stratification in health communication.
 </p>
 <p class="bio-text"> 
-'m visiting the  <a href="https://knowledgelab.org/">Knowledge Lab</a> at UChicago until August 2025.
+I'm visiting the  <a href="https://knowledgelab.org/">Knowledge Lab</a> at UChicago until August 2025.
 </p>
 
 <style>
