@@ -9,6 +9,8 @@ author_profile: true
   <div class="wordwrap">You can also find my research on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 {% endif %}
 
+{% include base_path %}
+
 {% if site.research_category %}
   {% for category in site.research_category %}
     {% assign title_shown = false %}
