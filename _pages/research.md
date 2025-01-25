@@ -44,5 +44,8 @@ author_profile: true
 
 
 <span style="font-family: Aptos, sans-serif; font-size: 24px; color: #6495ED;">CONFERENCE PRESENTATIONS</span>
-- <b style="color: #C70039; font-family: Calibri; font-size: 20px;">Jie Hua</b>, and <span style="font-family: Calibri; font-size: 20px;">Ting Li</span>. 2024. “Temporal-Spatial Patterns of One-Person Households in China: 2000-2020”  
-— Annual Meeting of PAS (Population Association of Singapore), Singapore.
+
+
+- <b style="color: #C70039; font-family: Calibri; font-size: 20px;">Jie Hua</b>, and Ting Li. 2024. “Temporal-Spatial Patterns of One-Person Households in China: 2000-2020”  
+— <span style="font-family: Calibri; font-size: 20px;">Annual Meeting of PAS (Population Association of Singapore), Singapore.</span>
+
