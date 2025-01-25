@@ -12,7 +12,7 @@ author_profile: true
 
 <!--3rd -->
 <ul style="list-style-type: disc; padding-left: 20px;">
-  <li><span style="font-family: Calibri; font-size: 22px; font-weight: bold;">How is the Discourse on Fertility Issues Constructed on the Internet? (CN, in press)</span></li>
+  <li><span style="font-family: Calibri; font-size: 22px; font-weight: bold;">How is the Discourse on Fertility Constructed on the Internet? (CN, in press)</span></li>
 </ul>
 <p style="font-family: Calibri; font-size: 20px;">Author: Ting,Li, <b style="color: #C70039;">Jie Hua</b>, Andi Wang</p>
 
