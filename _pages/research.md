@@ -42,6 +42,7 @@ author_profile: true
 【Abstract】Based on Cockerham’s Health Lifestyle Theory, this paper discusses whether there are Social Economic Status (SES) differences in intergenerational inheritance of health behaviors. Using Bayesian Structural Equation Model, drawing upon the dataset of “China Health and Nutrition Survey 2015” (CHNS2015), this study reveals that the adolescents with high family socioeconomic status show a pattern of inclining towards positive health behaviors and avoiding inheriting risky behaviors. Although there is no direct correlation between parental positive health behaviors and children’s positive health behaviors, parents’ strong health beliefs encourage their children to develop positive health behaviors. Meanwhile, high family socioeconomic status and strong health belief decreases children’s propensity of inheriting parents’ risky health behaviors. If health behaviors can be intervened in the early stage of individual’s life, it may help to break the class solidification and promote social mobility.
 </p>
 
+<br>
 
 <span style="font-family: Aptos, sans-serif; font-size: 24px; color: #6495ED;">CONFERENCE PRESENTATIONS</span>
 
