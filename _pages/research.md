@@ -10,7 +10,7 @@ author_profile: true
 <br>
 
 <span style="font-family: Aptos, sans-serif; font-size: 24px; color: #6495ED;">PEER-REVIEWED PAPERS</span>
-
+<p style="font-family: Calibri; font-size: 18px; font-style: italic;">* CN - Published in Chinese</p>
 
 <!--3rd -->
 <ul style="list-style-type: disc; padding-left: 20px;">
