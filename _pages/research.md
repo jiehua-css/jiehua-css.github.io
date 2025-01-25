@@ -54,3 +54,6 @@ author_profile: true
 
 - Ke Li, <b style="color: #C70039; font-family: Calibri; font-size: 20px;">Jie Hua</b>, and Pu Yan. 2023. “‘The Algorithm Knows Too much about Me!’ Public Understanding of Content Recommendation Algorithms on Chinese Social Media Platforms”  
 — <b style="font-family: Calibri; font-size: 20px;">International Conference on Computational Social Science, Copenhagen, Denmark.
+
+- <b style="color: #C70039; font-family: Calibri; font-size: 20px;">Jie Hua</b>, and Ting Li. 2024. “Polarization or Diversification? Social Media’s Influence on Attitudes towards Marriage and Fertility”  
+— <b style="font-family: Calibri; font-size: 20px;">Annual Meeting of ASA (American Sociological Association), Section on Communication, Information Technologies, and Media Sociology (Roundtable)</b>, Philadelphia, U.S..
