@@ -102,15 +102,15 @@ I'm visiting the  <a href="https://knowledgelab.org/">Knowledge Lab</a> at UChic
 <h2 class="visit-title">Visit and Workshop</h2>
 <table class="visit-workshop-table">
   <tr>
-    <td><span class="role">Visiting Student, Sociology</span>, University of Chicago</td>
-    <td>2024-2025</td>
+    <td><span class="role">Quantitative Social Science Workshop</span>, Peking University</td>
+    <td>2024.7</td>
   </tr>
   <tr>
-    <td><span class="role">Workshop Participant, Data Science</span>, University of Oxford</td>
-    <td>2021</td>
+    <td><span class="role">Survey Data Archive Seminar</span>, University of Tokyo</td>
+    <td>2023.12</td>
   </tr>
   <tr>
-    <td><span class="role">Workshop Speaker, Social Research</span>, Southeast University</td>
-    <td>2020</td>
+    <td><span class="role">Data Science Intensive Studies Program (Summer Session)</span>, StanfordUniversity</td>
+    <td>2019.6-2019.8</td>
   </tr>
 </table>
