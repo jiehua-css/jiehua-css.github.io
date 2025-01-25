@@ -110,7 +110,44 @@ I'm visiting the  <a href="https://knowledgelab.org/">Knowledge Lab</a> at UChic
     <td>2023.12</td>
   </tr>
   <tr>
-    <td><span class="role">Data Science Intensive Studies Program (Summer Session)</span>, StanfordUniversity</td>
+    <td><span class="role">Data Science Intensive Studies Program</span>, StanfordUniversity</td>
     <td>2019.6-2019.8</td>
+  </tr>
+</table>
+
+<style>
+  .skills-table {
+    width: 100%;
+    border-collapse: collapse;
+    font-family: "Times New Roman", serif;
+    font-size: 18px;
+  }
+  .skills-table td {
+    padding: 8px;
+    text-align: left;
+    border: none;
+  }
+  .skills-table td:nth-child(2) {
+    text-align: right;
+  }
+  .skills-table .skill {
+    font-weight: bold;
+  }
+  .skills-table, .skills-table td {
+    border: none;
+  }
+  .skills-title {
+    color: #FF7F50;
+    font-size: 28px;
+  }
+</style>
+
+<h2 class="skills-title">Skills</h2>
+<table class="skills-table">
+  <tr>
+    <td><span class="role">Programming</span>: Python, R</td>
+  </tr>
+  <tr>
+    <td><span class="role">Statistical Software</span>: Stata, SAS, SPSS, ArcGIS, Gephi, NetLogo</td>
   </tr>
 </table>
