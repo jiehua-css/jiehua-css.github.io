@@ -110,7 +110,7 @@ I'm visiting the  <a href="https://knowledgelab.org/">Knowledge Lab</a> at UChic
     <td>2023.12</td>
   </tr>
   <tr>
-    <td><span class="role">Data Science Intensive Studies Program</span>, StanfordUniversity</td>
+    <td><span class="role">Data Science Intensive Studies Program</span>, Stanford University</td>
     <td>2019.6-2019.8</td>
   </tr>
 </table>
