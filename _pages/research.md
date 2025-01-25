@@ -47,5 +47,8 @@ author_profile: true
 
 
 - <b style="color: #C70039; font-family: Calibri; font-size: 20px;">Jie Hua</b>, and Ting Li. 2024. “Temporal-Spatial Patterns of One-Person Households in China: 2000-2020”  
-— <span style="font-family: Calibri; font-size: 20px;">Annual Meeting of PAS (Population Association of Singapore), Singapore.</span>
+— <b style="font-family: Calibri; font-size: 20px;">Annual Meeting of PAS (Population Association of Singapore), Singapore.</b>
+
+- <b style="color: #C70039; font-family: Calibri; font-size: 20px;">Jie Hua</b>, and Pu Yan. 2024. “Shifting Demands and Responses in Reproductive Issues”  
+— <b style="font-family: Calibri; font-size: 20px;">Annual Meeting of Chinese Sociological Association, Section on Computational Sociology, Tianjin, China.</b>
 
