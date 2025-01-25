@@ -7,6 +7,8 @@ author_profile: true
 
 {% include base_path %}
 
+<br>
+
 <span style="font-family: Aptos, sans-serif; font-size: 24px; color: #6495ED;">PEER-REVIEWED PAPERS</span>
 
 
