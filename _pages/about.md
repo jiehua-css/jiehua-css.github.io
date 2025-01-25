@@ -179,9 +179,9 @@ I'm visiting the  <a href="https://knowledgelab.org/">Knowledge Lab</a> at UChic
 <h2 class="honors-title">HONORS AND AWARDS</h2>
 <table class="honors-table">
   <tr>
-    <td><span class="award">PhD Second-Class Scholarship (3 times)</span></td>
+    <td>PhD Second-Class Scholarship (3 times)</td>
   </tr>
   <tr>
-    <td><span class="award">National Scholarship</span></td>
+    <td>National Scholarship</td>
   </tr>
 </table>
