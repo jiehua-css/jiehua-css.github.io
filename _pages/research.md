@@ -64,6 +64,6 @@ author_profile: true
 - <b style="color: #C70039; font-family: Calibri; font-size: 20px;">Jie Hua</b>, Ralph Schroeder, and Pu Yan. 2022. “‘Female boxers’ vs ‘Feminists’: Mapping Feminist Controversies across Different Chinese Social Media Platforms”  
 — <b style="font-family: Calibri; font-size: 20px;">Annual ICA (International Communication Association) Conference, Communication and Technology Division</b>, virtual.
 
-- <b style="color: #C70039; font-family: Calibri; font-size: 20px;">Jie Hua</b>, and Yanbi Hong. 2022. “Group Distinction and Mate Selection Criteria between First-time and Remarried People”  
+- <b style="color: #C70039; font-family: Calibri; font-size: 20px;">Jie Hua</b>, and Yanbi Hong. 2019. “Group Distinction and Mate Selection Criteria between First-time and Remarried People”  
 — <b style="font-family: Calibri; font-size: 20px;"> Annual Meeting of CSA (Chinese Sociological Association), Section on Cutting-edge and Interaction of Quantitative Sociological Research</b>, Yunnan, China.
 
