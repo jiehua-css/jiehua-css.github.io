@@ -171,7 +171,7 @@ I'm visiting the  <a href="https://knowledgelab.org/">Knowledge Lab</a> at UChic
     border: none;
   }
   .honors-title {
-    color: #FF7F50;
+    color: #870E0A;
     font-size: 28px;
   }
 </style>
