@@ -24,6 +24,9 @@ I am a Ph.D. Candidate in Demography at the School of Population and Health, Ren
 <p class="bio-text"> 
 I'm visiting the  <a href="https://knowledgelab.org/">Knowledge Lab</a> at UChicago until August 2025.
 </p>
+<p class="bio-text"> 
+<b>Research Interests</b>: Computational Social Science, Family and Marriage, Population Health, Quantitative Methods
+</p>
 
 <style>
   .education-table {
