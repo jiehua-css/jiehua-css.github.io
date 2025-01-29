@@ -70,7 +70,7 @@ I'm visiting the  <a href="https://knowledgelab.org/">Knowledge Lab</a> at UChic
     <td>2010-2021</td>
   </tr>
   <tr>
-    <td><span class="degree">B.A. Sociology</span>, Southeast University (Outstanding Graduate)</td>
+    <td><span class="degree">B.A. Sociology</span>, Southeast University</td>
     <td>2016-2020</td>
   </tr>
 </table>
