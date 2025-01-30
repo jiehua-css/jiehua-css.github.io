@@ -5,14 +5,7 @@
 # prevent it from being included in the site.
 
 main:
-  en:
-    - title: "Research"
-      url: /research/
-    - title: "中文版"
-      url: /cn/
-
-  cn:
-    - title: "研究"
-      url: /research/
-    - title: "English"
-      url: /en/
+  - title: "Research"
+    url: /research/
+  - title: "中文版"
+    url: /cn/
