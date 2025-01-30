@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: /cn/
 title: "<span style='font-family:Aptos, sans-serif;'>Jie Hua</span> <span style='font-family:仿宋, FangSong;'>（华 杰）</span>"
 author_profile: true
 redirect_from: 
