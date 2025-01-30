@@ -7,3 +7,5 @@
 main:
   - title: "Research"
     url: /research/
+  - title: "中文版"
+    url: /cn/
