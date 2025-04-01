@@ -14,7 +14,7 @@ author_profile: true
 
 <!--3rd -->
 <ul style="list-style-type: disc; padding-left: 20px;">
-  <li><span style="font-family: Calibri; font-size: 22px; font-weight: bold;">How is the Discourse on Fertility Constructed on the Internet? (CN, in press)</span></li>
+  <li><span style="font-family: Calibri; font-size: 22px; font-weight: bold;">How is the Discourse on Fertility Constructed on the Internet? (CN, <a href="https://github.com/jiehua-css/jiehua-css.github.io/raw/master/assets/%E4%B8%AD%E5%9B%BD%E4%BA%92%E8%81%94%E7%BD%91%E7%94%9F%E8%82%B2%E8%AE%AE%E9%A2%98%E4%BD%95%E4%BB%A5%E6%9E%84%E5%BB%BA_%E6%9D%8E%E5%A9%B7.pdf" target="_blank">pdf</a>)</span></li>
 </ul>
 <p style="font-family: Calibri; font-size: 20px;">Author: Ting,Li, <b style="color: #C70039;">Jie Hua</b>, Andi Wang</p>
 
@@ -25,7 +25,7 @@ author_profile: true
 
 <!--2nd -->
 <ul style="list-style-type: disc; padding-left: 20px;">
-  <li><span style="font-family: Calibri; font-size: 22px; font-weight: bold;">Temporal-Spatial Pattern of One-Person Households in China (CN, <a href="https://github.com/jiehua-css/jiehua-css.github.io/blob/master/assets/%E4%B8%AD%E5%9B%BD%E4%BA%92%E8%81%94%E7%BD%91%E7%94%9F%E8%82%B2%E8%AE%AE%E9%A2%98%E4%BD%95%E4%BB%A5%E6%9E%84%E5%BB%BA_%E6%9D%8E%E5%A9%B7.pdf" target="_blank">pdf</a>)</span></li>
+  <li><span style="font-family: Calibri; font-size: 22px; font-weight: bold;">Temporal-Spatial Pattern of One-Person Households in China (CN, <a href="https://github.com/jiehua-css/jiehua-css.github.io/raw/master/assets/%E4%B8%AD%E5%9B%BD%E4%BA%92%E8%81%94%E7%BD%91%E7%94%9F%E8%82%B2%E8%AE%AE%E9%A2%98%E4%BD%95%E4%BB%A5%E6%9E%84%E5%BB%BA_%E6%9D%8E%E5%A9%B7.pdf" target="_blank">pdf</a>)</span></li>
 </ul>
 <p style="font-family: Calibri; font-size: 20px;">Author: Ting,Li, <b style="color: #C70039;">Jie Hua</b>, Chengrong Duan</p>
 
