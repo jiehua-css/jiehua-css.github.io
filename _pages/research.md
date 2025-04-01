@@ -14,7 +14,7 @@ author_profile: true
 
 <!--3rd -->
 <ul style="list-style-type: disc; padding-left: 20px;">
-  <li><span style="font-family: Calibri; font-size: 22px; font-weight: bold;">How is the Discourse on Fertility Constructed on the Internet? (CN, <a href="https://github.com/jiehua-css/jiehua-css.github.io/blob/master/assets/%E4%B8%AD%E5%9B%BD%E5%8D%95%E4%BA%BA%E6%88%B7%E5%88%86%E5%B8%83%E6%A0%BC%E5%B1%80%E6%97%B6%E7%A9%BA%E6%BC%94%E5%8F%98%E7%9A%84%E4%B8%89%E5%A4%A7%E7%89%B9%E5%BE%81%E5%8F%8A%E5%85%B6%E5%BD%B1%E5%93%8D%E5%9B%A0%E7%B4%A0_%E6%9D%8E%E5%A9%B7.pdf" target="_blank">pdf</a>)</span></li>
+  <li><span style="font-family: Calibri; font-size: 22px; font-weight: bold;">How is the Discourse on Fertility Constructed on the Internet? (CN, <a href="https://github.com/jiehua-css/jiehua-css.github.io/raw/master/assets/%E4%B8%AD%E5%9B%BD%E4%BA%92%E8%81%94%E7%BD%91%E7%94%9F%E8%82%B2%E8%AE%AE%E9%A2%98%E4%BD%95%E4%BB%A5%E6%9E%84%E5%BB%BA_%E6%9D%8E%E5%A9%B7.pdf" target="_blank">pdf</a>)</span></li>
 </ul>
 <p style="font-family: Calibri; font-size: 20px;">Author: Ting,Li, <b style="color: #C70039;">Jie Hua</b>, Andi Wang</p>
 
@@ -25,7 +25,7 @@ author_profile: true
 
 <!--2nd -->
 <ul style="list-style-type: disc; padding-left: 20px;">
-  <li><span style="font-family: Calibri; font-size: 22px; font-weight: bold;">Temporal-Spatial Pattern of One-Person Households in China (CN, <a href="https://github.com/jiehua-css/jiehua-css.github.io/raw/master/assets/%E4%B8%AD%E5%9B%BD%E4%BA%92%E8%81%94%E7%BD%91%E7%94%9F%E8%82%B2%E8%AE%AE%E9%A2%98%E4%BD%95%E4%BB%A5%E6%9E%84%E5%BB%BA_%E6%9D%8E%E5%A9%B7.pdf" target="_blank">pdf</a>)</span></li>
+  <li><span style="font-family: Calibri; font-size: 22px; font-weight: bold;">Temporal-Spatial Pattern of One-Person Households in China (CN, <a href="https://github.com/jiehua-css/jiehua-css.github.io/raw/master/assets/%E4%B8%AD%E5%9B%BD%E5%8D%95%E4%BA%BA%E6%88%B7%E5%88%86%E5%B8%83%E6%A0%BC%E5%B1%80%E6%97%B6%E7%A9%BA%E6%BC%94%E5%8F%98%E7%9A%84%E4%B8%89%E5%A4%A7%E7%89%B9%E5%BE%81%E5%8F%8A%E5%85%B6%E5%BD%B1%E5%93%8D%E5%9B%A0%E7%B4%A0_%E6%9D%8E%E5%A9%B7.pdf" target="_blank">pdf</a>)</span></li>
 </ul>
 <p style="font-family: Calibri; font-size: 20px;">Author: Ting,Li, <b style="color: #C70039;">Jie Hua</b>, Chengrong Duan</p>
 
