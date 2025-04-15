@@ -105,6 +105,10 @@ I'm visiting the  <a href="https://knowledgelab.org/">Knowledge Lab</a> at UChic
 <h2 class="visit-title">VISIT & WORKSHOP</h2>
 <table class="visit-workshop-table">
   <tr>
+    <td><span class="role">Summer Institute in Computational Social Science</span>, University of Pennsylvania</td>
+    <td>2025.6-2025.7</td>
+  </tr>
+  <tr>
     <td><span class="role">Quantitative Social Science Workshop</span>, Peking University</td>
     <td>2024.7</td>
   </tr>
